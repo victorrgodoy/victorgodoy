@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=08CE90&center=true&vCenter=true&lines=Hello+everyone!!!;My+name's+Victor+Godoy.;I'm+a+student+developer." alt="typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08CE90&width=435&lines=Hello+World!;I'm+Victor+Godoy;Student+and+Developer" alt="Typing SVG">
 </p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=victorrgodoy&label=Profile%20views&color=0e75b6&style=flat-square" alt="victorrgodoy" /> 
